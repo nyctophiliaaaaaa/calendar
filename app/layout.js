@@ -4,9 +4,9 @@ exports.metadata = void 0;
 exports.default = RootLayout;
 require("./globals.css");
 exports.metadata = {
-    title: 'v0 App',
-    description: 'Created with v0',
-    generator: 'v0.dev',
+    title: 'Kalendryo',
+    description: '',
+    generator: '',
 };
 function RootLayout(_a) {
     var children = _a.children;
